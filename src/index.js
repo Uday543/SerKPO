@@ -18,7 +18,7 @@ import LoginPage_KPO from './LoginPage_KPO';
 import SignUpPage from './SignUpPage';
 import OtpVerificationPage from './OtpVerificationPage';
 import RegisterAs from './RegisterAs';
-
+//NEW COMMIT
 
 ReactDOM.render(<Routing />, document.getElementById('root'));
 // ReactDOM.render(<OtpVerificationPage />, document.getElementById('root'));
