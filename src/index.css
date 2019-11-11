@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+@import "./inspinia/css/animate.css";
+@import "./inspinia/css/bootstrap.min.css";
+@import './HTML5_Full_Version/font-awesome/css/font-awesome.css';
+@import './HTML5_Full_Version/css/animate.css';
+@import './HTML5_Full_Version/css/style.css';
+@import './inspinia/css/plugins/iCheck/custom.css';
+@import './inspinia/css/plugins/fullcalendar/fullcalendar.css';
+@import './inspinia/css/plugins/fullcalendar/fullcalendar.print.css';
+@import './inspinia/css/plugins/toastr/toastr.min.css';
+@import './HTML5_Full_Version/js/plugins/gritter/jquery.gritter.css';
+@import './HTML5_Full_Version/css/plugins/footable/footable.core.css';
+@import './HTML5_Full_Version/css/plugins/jqGrid/ui.jqgrid.css';
+@import './HTML5_Full_Version/css/plugins/jQueryUI/jquery-ui-1.10.4.custom.min.css';
+
